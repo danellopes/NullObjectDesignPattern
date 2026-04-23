@@ -1,0 +1,27 @@
+66.0 APEX_CODE,DEBUG;APEX_PROFILING,INFO
+Execute Anonymous: NullLog log = (NullLog) Type.forName('NullLog').newInstance();
+Execute Anonymous: BankAccount account = new BankAccount(log);
+Execute Anonymous: account.deposit(100);
+07:11:26.53 (53247463)|USER_INFO|[EXTERNAL]|005aj00000SPAAX|daniel.nunes.meira@creative-goat-g2rhbs.com|(GMT-03:00) Brasilia Standard Time (America/Sao_Paulo)|GMT-03:00
+07:11:26.53 (53280426)|EXECUTION_STARTED
+07:11:26.53 (53326273)|CODE_UNIT_STARTED|[EXTERNAL]|execute_anonymous_apex
+07:11:26.61 (61071457)|CUMULATIVE_LIMIT_USAGE
+07:11:26.61 (61071457)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 0 out of 100
+  Number of query rows: 0 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of Publish Immediate DML: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+07:11:26.61 (61071457)|CUMULATIVE_LIMIT_USAGE_END
+
+07:11:26.53 (61215102)|CODE_UNIT_FINISHED|execute_anonymous_apex
+07:11:26.53 (61242646)|EXECUTION_FINISHED

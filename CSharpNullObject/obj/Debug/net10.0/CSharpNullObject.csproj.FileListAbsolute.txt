@@ -1,0 +1,14 @@
+/Users/daniellopes/Desktop/Repos/NullObjectDesignPattern/CSharpNullObject/bin/Debug/net10.0/CSharpNullObject
+/Users/daniellopes/Desktop/Repos/NullObjectDesignPattern/CSharpNullObject/bin/Debug/net10.0/CSharpNullObject.deps.json
+/Users/daniellopes/Desktop/Repos/NullObjectDesignPattern/CSharpNullObject/bin/Debug/net10.0/CSharpNullObject.runtimeconfig.json
+/Users/daniellopes/Desktop/Repos/NullObjectDesignPattern/CSharpNullObject/bin/Debug/net10.0/CSharpNullObject.dll
+/Users/daniellopes/Desktop/Repos/NullObjectDesignPattern/CSharpNullObject/bin/Debug/net10.0/CSharpNullObject.pdb
+/Users/daniellopes/Desktop/Repos/NullObjectDesignPattern/CSharpNullObject/obj/Debug/net10.0/CSharpNullObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniellopes/Desktop/Repos/NullObjectDesignPattern/CSharpNullObject/obj/Debug/net10.0/CSharpNullObject.AssemblyInfoInputs.cache
+/Users/daniellopes/Desktop/Repos/NullObjectDesignPattern/CSharpNullObject/obj/Debug/net10.0/CSharpNullObject.AssemblyInfo.cs
+/Users/daniellopes/Desktop/Repos/NullObjectDesignPattern/CSharpNullObject/obj/Debug/net10.0/CSharpNullObject.csproj.CoreCompileInputs.cache
+/Users/daniellopes/Desktop/Repos/NullObjectDesignPattern/CSharpNullObject/obj/Debug/net10.0/CSharpNullObject.dll
+/Users/daniellopes/Desktop/Repos/NullObjectDesignPattern/CSharpNullObject/obj/Debug/net10.0/refint/CSharpNullObject.dll
+/Users/daniellopes/Desktop/Repos/NullObjectDesignPattern/CSharpNullObject/obj/Debug/net10.0/CSharpNullObject.pdb
+/Users/daniellopes/Desktop/Repos/NullObjectDesignPattern/CSharpNullObject/obj/Debug/net10.0/CSharpNullObject.genruntimeconfig.cache
+/Users/daniellopes/Desktop/Repos/NullObjectDesignPattern/CSharpNullObject/obj/Debug/net10.0/ref/CSharpNullObject.dll

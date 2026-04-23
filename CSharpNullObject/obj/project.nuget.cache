@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2eIqg+Wod58=",
+  "success": true,
+  "projectFilePath": "/Users/daniellopes/Desktop/Repos/NullObjectDesignPattern/CSharpNullObject/CSharpNullObject.csproj",
+  "expectedPackageFiles": [
+    "/Users/daniellopes/.nuget/packages/autofac/9.1.0/autofac.9.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
